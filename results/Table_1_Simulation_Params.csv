@@ -1,0 +1,7 @@
+Parameter,Value
+Number of Nodes,50
+Area Size,1000x1000 m
+Comm. Range,250 m
+Initial Energy,200 J
+Total Episodes,2000
+Federated Freq,10 episodes
